@@ -1,0 +1,24 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "serverfarms_EastUS2Plan_name": {
+            "value": null
+        },
+        "sites_HelloWorldAppFunction_name": {
+            "value": null
+        },
+        "components_HelloWorldAppFunction_name": {
+            "value": null
+        },
+        "workspaces_log_analytics_workspace_HelloWorldAppFunction_name": {
+            "value": null
+        },
+        "smartdetectoralertrules_failure_anomalies___helloworldappfunction_name": {
+            "value": null
+        },
+        "actiongroups_application_insights_smart_detection_externalid": {
+            "value": null
+        }
+    }
+}
